@@ -1,0 +1,17 @@
+[
+                {
+                    "title": "Sản phẩm A",
+                    "image": "https://cdn.chotot.com/YnnuxLNt7eps60Bn3sQBVqt4ilaMsFVAJ0V75w844aQ/preset:view/plain/9191ff2d7a4279ff42ed7c48d7c78cb1-2919396092785991361.jpg",
+                    "link": "https://www.example.com/product-a"
+                },
+                {
+                    "title": "Sản phẩm B",
+                    "image": "https://muabandatquynhon.com/data/images/2025/nhan-booking-can-ho-simona-heights-quy-nhon-giai-doan-1-gia-chi-15-ty-1740554867.jpg",
+                    "link": "https://www.example.com/product-b"
+                },
+                {
+                    "title": "Sản phẩm C",
+                    "image": "https://muabandatquynhon.com/data/images/2025/ban-nha-mat-tien-duong-chi-lang-phuong-quang-trung-quy-nhon-1740492486.jpg",
+                    "link": "https://www.example.com/product-c"
+                }
+            ]
